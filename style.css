@@ -34,7 +34,7 @@ body
 	}
 	
 .aside{
-	height:600px;
+	height:400px;
 	background:white;
 	color:teal;
 	margin-left:5px;
@@ -42,9 +42,9 @@ body
 
 .footer{
 height:90px;
+width:100%;
 background:teal;
 color:white;
-float:left;
 margin-top:2px;
 font-size:120%;
 font-weight:bold;
