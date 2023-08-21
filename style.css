@@ -34,9 +34,9 @@ body
 	}
 	
 .aside{
+	height:600px;
 	background:white;
 	color:teal;
-	float:left;
 	margin-left:5px;
 	}
 
