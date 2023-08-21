@@ -27,28 +27,22 @@ body
 }
 .container1
 {
-	width:50%;
 	background:lightyellow;
 	color:marineblue;
 	height:60%;
-	float:left;
 	padding-top:15px;
 	
 	}
 	
 .aside{
-	width:49%;
-	height:60%;
 	background:white;
 	color:teal;
 	float:left;
 	margin-left:5px;
-		
 	}
 
 .footer{
 height:90px;
-width:100%;
 background:teal;
 color:white;
 float:left;
