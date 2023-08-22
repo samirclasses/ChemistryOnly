@@ -34,7 +34,7 @@ body
 	}
 	
 .aside{
-	height:500px;
+	height:600px;
 	width:100%;
 	background:white;
 	color:teal;
@@ -86,8 +86,9 @@ color:white;
 background:green;
 padding:5px;
 }
-#org{
-	font-size:120%;
-	font-color:black;
+.footer{
+	height:50px;
+	width:100%;
+	background-color:lightywellow;
 }
 
