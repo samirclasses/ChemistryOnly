@@ -33,13 +33,6 @@ body
 	
 	}
 	
-div.aside{
-	width:100%;
-	background:white;
-	color:teal;
-	margin-left:5px;
-	}
-
 h3{
 color:purple;
 }	
@@ -78,7 +71,8 @@ color:white;
 background:green;
 padding:5px;
 }
-div.footer{
+.footer{
+	border:1px solid teal;
 	height:50px;
 	width:100%;
 	background-color:lightywellow;
