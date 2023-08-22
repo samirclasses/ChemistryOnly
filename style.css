@@ -34,7 +34,7 @@ body
 	}
 	
 .aside{
-	height:400px;
+	height:500px;
 	width:100%;
 	background:white;
 	color:teal;
@@ -66,7 +66,6 @@ select
 }
 h2
 {display:inline;
-margin-left:10px;
 }
 select{
 	height:25px;
@@ -87,5 +86,8 @@ color:white;
 background:green;
 padding:5px;
 }
-
+#org{
+	font-size:120%;
+	font-color:black;
+}
 
