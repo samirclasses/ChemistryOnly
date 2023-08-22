@@ -33,7 +33,7 @@ body
 	
 	}
 	
-.aside{
+div.aside{
 	height:600px;
 	width:100%;
 	background:white;
@@ -41,13 +41,6 @@ body
 	margin-left:5px;
 	}
 
-.footer{
-height:90px;
-width:100%;
-margin-top:2px;
-font-size:120%;
-font-weight:bold;
-}	
 h3{
 color:purple;
 }	
@@ -86,7 +79,7 @@ color:white;
 background:green;
 padding:5px;
 }
-.footer{
+div.footer{
 	height:50px;
 	width:100%;
 	background-color:lightywellow;
