@@ -81,9 +81,11 @@ padding:5px;
 	border:10px solid cyan;
 	border-style:groove;
 }
+
 .test{
 	height:600px;
-	boder:10px solid cyan;
+	width:95%;
+	border:10px solid cyan;
 	boder-style:groove;
 	overflow:scroll;
 }
