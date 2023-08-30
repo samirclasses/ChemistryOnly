@@ -73,9 +73,10 @@ padding:5px;
 }
 .footer{
 	border:1px solid teal;
-	height:50px;
+	height:100px;
 	width:100%;
 	background-color:lightyellow;
+	color:blue;
 }
 .organic{
 	border:10px solid cyan;
