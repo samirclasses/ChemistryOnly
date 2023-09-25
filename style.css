@@ -1,6 +1,10 @@
 body
 {font-weight:bold;
 	}
+aside{
+	width:30%;
+	float:right;
+}
 
 nav
 {
