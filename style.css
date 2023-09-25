@@ -4,6 +4,9 @@ body
 aside{
 	width:30%;
 	float:right;
+	color:green;
+	text-size:120%;
+	border-left:2px solid blue;
 }
 
 nav
