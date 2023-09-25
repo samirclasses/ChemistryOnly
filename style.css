@@ -4,12 +4,16 @@ body
 aside{
 	width:30%;
 	float:right;
+	
+	
+}
+.video{
 	color:green;
 	background-color:lightgray;
 	text-size:120%;
-	
+	text-decoration:none;
 }
-
+	
 nav
 {
 	height:200px;
