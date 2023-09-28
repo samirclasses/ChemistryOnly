@@ -96,6 +96,8 @@ padding:5px;
 
 .test{
 	height:500px;
+	width:40%;
+	float:right;
 	border:10px solid cyan;
 	border-style:groove;
 	overflow:scroll;
