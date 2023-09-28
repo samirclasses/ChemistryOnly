@@ -84,7 +84,6 @@ padding:5px;
 	border:1px solid teal;
 	height:75px;
 	width:100%;
-	align:left;
 	background-color:lightyellow;
 	color:blue;
 	font-size:140%;
@@ -97,8 +96,7 @@ padding:5px;
 
 .test{
 	height:500px;
-	width:70%;
-	float:left;
+	width:55%;
 	border:10px solid cyan;
 	border-style:groove;
 	overflow:scroll;
