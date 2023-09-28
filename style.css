@@ -82,7 +82,7 @@ padding:5px;
 }
 .footer{
 	border:1px solid teal;
-	height:100px;
+	height:75px;
 	width:100%;
 	align:left;
 	background-color:lightyellow;
@@ -97,8 +97,8 @@ padding:5px;
 
 .test{
 	height:500px;
-	width:55%;
-	float:right;
+	width:70%;
+	float:left;
 	border:10px solid cyan;
 	border-style:groove;
 	overflow:scroll;
