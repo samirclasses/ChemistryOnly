@@ -78,14 +78,10 @@ color:white;
 background:green;
 padding:5px;
 }
-.footer{
-	border:1px solid teal;
-	height:75px;
-	width:100%;
-	background-color:lightyellow;
-	color:blue;
-	font-size:140%;
+ol li{
+	color:white;
 }
+
 .organic{
 	text-decoration:none;
 	font-size:15px;
