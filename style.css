@@ -1,6 +1,6 @@
 body
 {font-weight:bold;
- background-color:lightyellow;
+ background-color:white;
 	}
 aside{
 	width:30%;
@@ -48,9 +48,10 @@ color:purple;
 }	
 select
 {
-	background:green;
+	background:fuchsia;
 	color:white;
 	height:25px;
+	margin-left:10px;
 	
 }
 
@@ -61,10 +62,6 @@ select
 }
 h2
 {display:inline;
-}
-select{
-	height:25px;
-	margin-left:10px;
 }
 
 #recent{
