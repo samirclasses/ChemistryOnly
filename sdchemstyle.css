@@ -112,8 +112,10 @@ body{
     color: indigo;  
 }
 #def1{
-    height:150px;
-    width:90%;
-    background-color:white;
-    color:blue;
+    height:300px;
+    width:100%;
+    background-color:lightblue;
+    color:white;
+    font-weight:bold;
+    font-size:3px;
 }
