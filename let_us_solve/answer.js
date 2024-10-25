@@ -10,3 +10,7 @@ function ans3()
 {alert('Correct Answer is  A')
     
 }
+function ans4()
+{alert('Correct Answer is  B')
+    
+}
