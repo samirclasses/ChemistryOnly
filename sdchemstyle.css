@@ -31,7 +31,7 @@
 .aside_body{
     width:100%;
     height:50px;
-    border: 1px solid indigo;
+    
     background-color: white;
     color: brown;
     font-size: 20px;
@@ -64,7 +64,7 @@ body{
 .class11_body{
     width:100%;
     height: 50px; 
-    border: 1px solid indigo;
+    
     font-size: 20px;
     text-align: center;
     font-weight: bold;
@@ -80,7 +80,7 @@ body{
 .comp_body{
     width:100%;
     height: 50px; 
-    border: 1px solid indigo;
+    
     font-size: 20px;
     text-align: center;
     font-weight: bold;  
