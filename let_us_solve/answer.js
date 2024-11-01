@@ -24,5 +24,7 @@ function ans6()
 }
 function ans7()
 {alert('Correct Answer is  A')
-    
+}
+function ans8()
+{alert('Correct Answer is  D')
 }
