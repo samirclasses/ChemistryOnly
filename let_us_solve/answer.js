@@ -28,3 +28,6 @@ function ans7()
 function ans8()
 {alert('Correct Answer is  D')
 }
+function ans9()
+{alert('Correct Answer is  C')
+}
