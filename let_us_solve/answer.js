@@ -31,3 +31,6 @@ function ans8()
 function ans9()
 {alert('Correct Answer is  C')
 }
+function ans10()
+{alert('Correct Answer is  D')
+}
