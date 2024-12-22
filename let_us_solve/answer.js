@@ -1,5 +1,5 @@
 function ans13()
-{alert('Correct Answer is  B')
+{alert('Correct Answer is  C')
     
 }  
 function ans12()
